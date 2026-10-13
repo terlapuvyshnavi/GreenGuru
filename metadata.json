@@ -1,0 +1,6 @@
+{
+  "name": "GreenGuru - Organic Plant Care & Pest Remedy Expert",
+  "description": "AI-powered organic plant doctor providing kitchen & natural remedies for garden pests and diseases in English, Hindi, and Telugu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
